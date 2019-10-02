@@ -15,7 +15,7 @@ Bạn biết đấy, đọc một quyển sách thường tốn kha khá thời 
 AN NAM Thư Quán không giúp bạn ghi nhớ, cũng không phải nơi giới thiệu sách cho bạn. Chúng tôi cũng đọc sách giống như bạn vậy, mỗi ngày chúng tôi dành thời gian đọc khoảng 15-20 trang sách. Và AN NAM Thư Quán là nơi chúng tôi tóm tắt lại 15-20 trang sách mà chúng tôi vừa đọc hôm đó. Như vậy, một quyển sách dày 500 trang thì tương ứng sẽ có khoảng 25 bài tóm tắt ứng với 25 buổi đọc sách của chúng tôi.
 
 
-Việc tóm tắt sách sau mỗi buổi đọc tất nhiên sẽ mang tính chủ quan, nên ngôn từ sử dụng chắc chắn sẽ không tránh khỏi những đánh giá mang tính cá nhân của mỗi người. Mong các bạn thông cảm!
+Việc tóm tắt sách sau mỗi buổi đọc tất nhiên sẽ mang tính chủ quan, nên ngôn từ sử dụng chắc chắn sẽ không tránh khỏi những đánh giá mang tính cá nhân của người đọc. Mong các bạn thông cảm!
 
 
-&copy;[AN NAM Studio](https://annamstudio.github.io)
+&copy; [AN NAM Studio](https://annamstudio.github.io)
