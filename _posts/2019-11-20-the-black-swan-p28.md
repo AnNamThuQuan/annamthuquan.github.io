@@ -22,11 +22,9 @@ Tất cả những điều trên đều có một điểm chung: bất cân xứ
 
 Chúng ta không thể tính toán được khả năng xảy ra của các biến cố cực hiếm, nhưng dễ dàng biết chắc được tác động của một biến cố đối với mình. Chúng ta có thể biết rõ về hậu quả của một biến cố, ngay cả khi không biết làm cách nào nó có thể xảy ra. Tôi không biết về khả năng xảy ra của một trận động đất, nhưng có thể hình dung mức độ ảnh hưởng mà San Franciso phải chịu nếu có động đất xảy ra ở đây.
 
-
-```
-Để đưa ra một quyết định, bạn cần phải tập trung vào các hậu quả (thứ có thể biết được) thay vì vào khả năng xảy ra (thứ không thể biết được) - đây chính là ý tưởng trọng tâm của sự bất định.
-```
-
+***
+***Để đưa ra một quyết định, bạn cần phải tập trung vào các hậu quả (thứ có thể biết được) thay vì vào khả năng xảy ra (thứ không thể biết được) - đây chính là ý tưởng trọng tâm của sự bất định.***
+***
 
 Bạn có thể dựa trên ý tưởng này để hình thành một lý thuyết tổng quát về việc ra quyết định. Tất cả những gì bạn cần phải làm là giảm nhẹ các hậu quả!
 
