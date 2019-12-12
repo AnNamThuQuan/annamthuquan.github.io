@@ -16,6 +16,8 @@ Bạn chỉ cần một quan sát độc lập để phủ nhận phương pháp
 
 Tôi quan tâm đến các giả thuyết hơn là lý thuyết, và muốn giảm thiểu mức độ phụ thuộc vào lý thuyết, duy trì được sự tinh tế của mình và giảm bớt những điều bất ngờ. Tôi muốn gần đúng hơn là sai hoàn toàn. Sự tinh tế trong những lý thuyết này thường biểu lộ sự yếu kém và xu hướng Plato - nó khiến bạn tìm kiếm sự tinh tế nhằm phục vụ cho mục đích tinh tế mà thôi. Một lý thuyết cũng giống như một liều thuốc (hoặc một bộ máy nhà nước): thường vô dụng, đôi khi lại cần thiết, luôn tự phục vụ, và thỉnh thoảng cũng gây chết người. Vì thế nó cần phải thận trọng, điều độ và luôn được giám sát chặt chẽ khi sử dụng.
 
+> Một học giả không nên dùng công cụ của thư viện này để tạo ra một thư viện khác
 
+*Những vấn đề triết học thật sự luôn bắt nguồn từ bên ngoài lĩnh vực triết học và chúng sẽ chết yểu nếu như những cội rễ trên bị mục rữa.* Những triết gia chỉ biết "nghiên cứu" triết học thay vì đào sâu tìm tòi triết học do sự thôi thúc của những vấn đề phi triết học sẽ dễ dàng quên ngay những cội rễ này.
 
 
