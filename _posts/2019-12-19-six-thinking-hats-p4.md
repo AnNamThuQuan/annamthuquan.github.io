@@ -21,6 +21,16 @@ Chiếc mũ đỏ bao giờ cũng được thực hiện trên cơ sở cá nhâ
 Mục đích của hướng tư duy theo chiếc mũ đỏ là nắm bắt ấn tượng cảm xúc phát lộ tức thì chứ không yêu cầu chủ thể tư duy phải lý giải hay phán xét cảm xúc đó.
 
 ***
+***
+
+**Cảm giác & Xúc cảm**
+
+Chức năng của chiếc mũ đỏ là phát huy mọi hoạt động tư duy mang tính ấn tượng và xúc cảm cá nhân. Nó mở ra một kênh thông tin chính thống, hợp lý cho những ý kiến mang yếu tố cảm tính trong quá trình hình dung ra tấm bản đồ tổng thể cho vấn đề được nêu ra.
+
+***
+***
+
+**Dành chỗ cho cảm xúc trong quá trình tư duy**
 
 Theo cách nghĩ truyền thống thì việc cảm xúc xen vào chỉ làm hỏng quá trình tư duy lý tính. Người có tư duy tốt phải là kẻ có đầu óc tỉnh táo, lạnh lùng, không bị tình cảm chi phối, tác động. Kẻ có trí tuệ phải khách quan trong nhìn nhận sự việc và đánh giá nó đúng như bản chất vốn có của nó mà không hề bị tình cảm chi phối.
 
@@ -35,6 +45,21 @@ Có 3 điều trong đó cảm xúc có thể ảnh hưởng đến suy nghĩ c�
 * Cảm xúc có thể bước chân vào sau bức tranh toàn cảnh của vấn đề đã được chắp nối vào với nhau. Tất cả mọi lựa chọn đều dựa trên cơ sở giá trị. Và phản ứng của chúng ta đối với các giá trị cũng mang tính cảm tính nốt.
 
 ***
+***
+
+**Trực giác & Linh Cảm**
+
+***
+***
+
+**Từ thời điểm đến thời điểm**
+
+Chiếc mũ đỏ có thể xuất hiện vào bất cứ lúc nào trong một buổi họp, thảo luận hay nói chuyện. Không chỉ phục vụ cho mục đích làm sáng tỏ vấn đề cần giải quyết, nó còn được sử dụng để định hướng và điều chỉnh quá trình tư duy. 
+ 
+***
+***
+
+**Công dụng của cảm xúc**
 
 Mục tiên cuối cùng của mọi hoạt động tư duy là để thỏa mãn nhu cầu của chủ thể. Nói cách khác, mục tiêu tối cao của một giải pháp là thỏa mãn hoặc dung hòa ý nguyện đã được nêu ra.
 
@@ -44,8 +69,14 @@ Trong quá trình đạt được mục tiêu ấy, khó khăn thường nảy s
 * Việc thỏa mãn nguyện vọng của một bên đôi khi lại khiến cho bên kia phải chịu thiệt thòi.
 * Sự mâu thuẫn giữa lợi ích ngắn hạn và lợi ích dài hạn: - Có ích lợi gì khi một kẻ có được cả thế giới nhưng lại đánh mất linh hồn mình?
 
+***
+***
+
+**Ngôn ngữ của cảm xúc**
+
 Khó khăn lớn nhất trong việc làm theo chiếc mũ đỏ là cưỡng lại cám dỗ muốn biện minh cho cảm xúc. Một sự biện minh có thể đúng, có thể sai. Nhưng dù sai hay đúng thì khi đó lối tư duy theo chiếc mũ đỏ sẽ đều bị coi là không cần thiết.
 
+***
 ***
 
 Chiếc mũ đỏ hợp thức hóa vai trò của cảm xúc, tình cảm, ấn tượng, ... với tư cách là một phần quan trọng trong quá trình tư duy. Nó làm cho những ấn tượng, cảm xúc trở nên rõ ràng đến mức chúng trở thành một phần trong bản đồ tư duy và cũng là một phần của hệ thống giá trị, giúp bạn nhìn vào tấm bản đồ mà chọn được đường đi thích hợp.

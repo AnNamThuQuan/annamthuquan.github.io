@@ -15,6 +15,9 @@ Hướng tư duy của chiếc mũ đen dựa trên cơ chế vận hành tự n
 Thức ăn thì bao giờ cũng rất tuyệt và là phần thiết yếu trong cuộc sống của con người. Nhưng ăn quá nhiều sẽ gây ra những vấn đề như béo phì và có thể gây nguy hiểm đến sức khỏe. Nhưng béo phì đâu phải là lỗi do thức ăn gây nên, mà là do việc ăn uống quá độ đấy chứ! Tương tự, có những người lạm dụng chiếc mũ đen, họ bỏ ra khối thời gian để bới lông tìm vết và cả các khiếm khuyết. Chiếc mũ đen đâu có tự gây ra những vấn đề như vậy, vấn đề là ở chỗ bạn đã quá lạm dụng hoặc sử dụng nó không đúng cách.
 
 ***
+***
+
+**Cảnh giác & Thận trọng**
 
 Lý luận theo hướng chiếc mũ đen phải có cơ sở, rõ ràng và dễ hiểu. Tính thuyết phục của nó phải dựa trên cơ sở thực tế và phương pháp luận chứ không phải bởi kỹ năng giao tiếp hay nghệ thuật thuyết phục của người trình bày.
 
@@ -23,12 +26,23 @@ Xét về bản chất, tư duy theo hướng chiếc mũ đen là tư duy đa c
 Với vai trò đánh giá, chiếc mũ đen giúp bạn quyết đinh có nên tiếp tục với ý tưởng nào đó hay là nên bỏ đi càng sớm càng tốt. Quyết định cuối cùng sẽ dựa trên sự kết hợp giữa chiếc mũ trắng (thực tế), mũ vàng (mặt lợi ích), mũ đen (mặt có hại), và mũ đỏ (sự mách bảo của linh tính, trực giác hoặc cảm xúc).
 
 ***
+***
+
+**Nội dung & Phương pháp tiến hành**
+
+***
+***
+
+**Quá khứ & Tương lai**
 
 Một chức năng vô cùng quan trọng của chiếc mũ đen là đánh giá các nguy cơ. Các giải pháp và hành động đều được dự đoán trước để thực hiện trong tương lai. Đó là điểm khác nhau cơ bản giữa tư duy "kinh viện" và tư duy "thực tiễn". Trong lối tư duy kinh viện, các học giả chỉ cần mô tả vấn đề, phân tích và đưa ra những lời giải thích uyên bác. Trong tư duy thực tiễn thì còn cần đến yếu tố hành động nữa.
 
 Khi nhìn về tương lai và sử dụng những bài học trong quá khứ, một câu hỏi bao giờ cũng được đặt ra là bài học này có mối tương quan gì với vấn đề hiện tại hay không? Nó có cho ra kết quả tương tự không?
 
 ***
+***
+
+**Nguy cơ lạm dụng chiếc mũ đen**
 
 Mũ đen là một phương tiện rất tuyệt vời để phê phán. Nhưng cũng chính vì tuyệt vời đến thế nên nó có thể bị lạm dụng quá mức. Món mì ống của Ý quả thật rất ngon nhưng ngày nào bạn cũng phải ăn nó thì sẽ có lúc bạn ngán đến tận cổ.
 
@@ -36,6 +50,7 @@ Mũ đen là một phương tiện rất tuyệt vời để phê phán. Nhưng 
 
 Có những người rất giỏi trong việc tạo dựng hình ảnh và uy tín bản thân bằng thái độ lúc nào cũng xông xáo trong việc phê phán người khác. Nếu một ý kiến đã tốt đến 95% thì họ sẽ xoáy sâu vào phần 5% chưa tốt. Trên tinh thần xây dựng, bạn chỉ ra và phân tích cái chưa được là để tìm cách khắc phục nó chứ không phải để phủ nhận nó. Trên tinh thần phê phán, bạn bới lông tìm vết với mục đích hạ thấp giá trị của 95% nội dung tuyệt vời kia. - Một đánh giá hay một phê bình đôi khi có thể hủy hoại giá trị tổng thể của một sự vật hay một đề xuất.
 
+***
 ***
 
 Chiếc mũ đen giúp chúng ta nâng cao tinh thần cảnh giác, thận trọng. Thật hết sức dại dột nếu tiến hành bất cứ một gợi ý nào mà không cân nhắc tất cả các khía cạnh của vấn đề một cách thận trọng.
